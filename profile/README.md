@@ -1,3 +1,3 @@
-## Hello Smart Home buddies 👋
+## Hello there Smart Home buddies 👋
 
 
