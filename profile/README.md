@@ -188,7 +188,6 @@ Hardware designs are © Gevako B.V., but firmware is yours to hack. 🔓
 - 🌷 **100% Dutch-made** (from design to PCB assembly)
 - ⚡ **ESP32-C6** was chosen because we love RISC-V (and WiFi 6 is cool)
 - 🐕 **Our mascot is a German electrician** (we trust him with our life ❤️)
-- 🚚 **We ship fast**
 - ☕ **Customer support runs on coffee** - good coffee makes good support
 
 ---
