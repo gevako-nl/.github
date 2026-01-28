@@ -125,7 +125,7 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 **Switching:** 16A per channel @ 250VAC / 30VDC  
 **Certifications:** CE marked  
 **Mounting:** DIN-rail compatible + screw mount  
-**Made in:** Duckstad, Netherlands 🇳🇱 (okay, we're not telling exactly where 😄)
+**Made in:** Land van Maas en Waal, Netherlands 🇳🇱
 
 ---
 
