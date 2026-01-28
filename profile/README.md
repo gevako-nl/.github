@@ -90,7 +90,7 @@ esp32:
 # 4. Start automating! 🎉
 ```
 
-**Need help?** Check our [step-by-step tutorials](https://www.youtube.com/@gevako-nl) (in Dutch, with English subtitles coming soon!)
+**Need help?** Check our [step-by-step tutorials](https://www.youtube.com/@gevako) (in Dutch, with English subtitles coming soon!)
 
 ---
 
