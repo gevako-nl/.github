@@ -1,5 +1,5 @@
 ## Hello there Smart Home buddies 👋
-# Here you will find the latest firmware of our smart switches.
+#### Here you will find the latest firmware of our smart switches.
 
 # Gevako RS6 | 6-channel Smart Switch for Home Assistant
 The Gevako RS6 is a 6-channel Smart Switch suitable for Home Assistant by using ESPHome. Six individual relays with a maximum switching current of 16 A at max 250 VAC / 30 VDC. Using the powerful ESP32-C6 processor.
