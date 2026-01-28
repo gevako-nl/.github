@@ -40,7 +40,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 <img src="https://github.com/user-attachments/assets/b819c35c-6a3c-4872-b763-25836b1a37a5" width="200"/>
 
-- ✅ 6× independent relays (16A each)
+- ✅ 6× independent relays (16 A each)
 - ✅ 250 VAC / 30 VDC max
 - ✅ ESP32-C6 processor
 - ✅ ESPHome native
@@ -58,7 +58,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 <img src="https://github.com/user-attachments/assets/089008c8-97aa-40c3-a091-e8da973dbac9" width="200"/>
 
-- ✅ 5× independent relays (16A each)
+- ✅ 5× independent relays (16 A each with common source)
 - ✅ 250 VAC / 30 VDC max
 - ✅ ESP32-C6 processor
 - ✅ ESPHome native
