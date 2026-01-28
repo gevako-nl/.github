@@ -2,7 +2,7 @@
 
 # ⚡ Gevako - Smart Home Hardware, Made in NL 🇳🇱
 
-### *Because your lights deserve better than being dumb*
+### *Because your house deserves better than being dumb*
 
 <a href="https://gevako.nl/webshop/" target="_blank">🛒 Webshop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://gevako.nl/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako" target="_blank">🎥 Tutorials</a>
 
