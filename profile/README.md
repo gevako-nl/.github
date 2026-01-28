@@ -149,7 +149,6 @@ Found a bug? Want a feature? Have an idea?
 
 - 🐛 [Report issues](https://github.com/gevako-nl/rs6/issues)
 - 💡 [Request features](https://github.com/gevako-nl/rs5/issues)
-- 🔧 Submit pull requests (we review fast!)
 - 📧 [Email us](https://gevako.nl/contact/)
 
 All firmware is open source - fork it, modify it, make it yours!
