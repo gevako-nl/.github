@@ -121,10 +121,10 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 
 **Processor:** ESP32-C6 (RISC-V, WiFi 6)  
 **Firmware:** ESPHome (open source, customizable)  
-**Power:** 12-24V DC input  
+**Power:** 230 VAC / 5 VDC (USB-C)
 **Switching:** 16A per channel @ 250VAC / 30VDC  
 **Certifications:** CE marked  
-**Mounting:** DIN-rail compatible + screw mount  
+**Mounting:** DIN-rail compatible
 **Made in:** Land van Maas en Waal, Netherlands 🇳🇱
 
 ---
@@ -169,9 +169,9 @@ All firmware is open source - fork it, modify it, make it yours!
 
 ## 🌐 Community & Support
 
-- 💬 **Email:** [contact@gevako.nl](mailto:contact@gevako.nl)
+- 💬 **Email:** [info@gevako.nl](mailto:info@gevako.nl)
 - 📖 **Docs:** [gevako.nl/ondersteuning](https://gevako.nl/ondersteuning/)
-- 🎥 **YouTube:** [@gevako-nl](https://www.youtube.com/@gevako-nl)
+- 🎥 **YouTube:** [@gevako-nl](https://www.youtube.com/@gevako)
 - 🏠 **Home Assistant Forum:** Coming soon!
 
 ---
@@ -188,8 +188,8 @@ Hardware designs are © Gevako B.V., but firmware is yours to hack. 🔓
 
 - 🌷 **100% Dutch-made** (from design to PCB assembly)
 - ⚡ **ESP32-C6** was chosen because we love RISC-V (and WiFi 6 is cool)
-- 🐕 **Our mascot is a dog electrician** (check our [website](https://gevako.nl))
-- 🚚 **We ship fast** - usually same-day if you order before lunch
+- 🐕 **Our mascot is a German electrician** (we trust him with our life ❤️)
+- 🚚 **We ship fast**
 - ☕ **Customer support runs on coffee** - good coffee makes good support
 
 ---
@@ -200,7 +200,7 @@ Hardware designs are © Gevako B.V., but firmware is yours to hack. 🔓
 
 **Gevako B.V.** • KVK: 93569882 • BTW: NL866453428B01
 
-[Website](https://gevako.nl) • [Shop](https://gevako.nl/webshop) • [Support](https://gevako.nl/ondersteuning) • [YouTube](https://youtube.com/@gevako-nl)
+[Website](https://gevako.nl) • [Shop](https://gevako.nl/webshop) • [Support](https://gevako.nl/ondersteuning) • [YouTube](https://youtube.com/@gevako)
 
 ⭐ **If you like what we're building, give us a star!** ⭐
 
