@@ -170,7 +170,7 @@ All firmware is open source - fork it, modify it, make it yours!
 
 - 💬 **Email:** [info@gevako.nl](mailto:info@gevako.nl)
 - 📖 **Docs:** [gevako.nl/ondersteuning](https://gevako.nl/ondersteuning/)
-- 🎥 **YouTube:** [@gevako-nl](https://www.youtube.com/@gevako)
+- 🎥 **YouTube:** [@gevako](https://www.youtube.com/@gevako)
 - 🏠 **Home Assistant Forum:** Coming soon!
 
 ---
