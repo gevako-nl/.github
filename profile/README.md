@@ -14,5 +14,5 @@ The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using 
 
 [<img width="200" height="200" alt="RS5 3D Black-T" src="https://github.com/user-attachments/assets/089008c8-97aa-40c3-a091-e8da973dbac9" />](https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/)
 
-### [Gevako RS5 in Webshop](https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/)
+#### [Gevako RS5 in Webshop](https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/)
 ### [Gevako RS5 Repository](https://github.com/gevako-nl/rs5)
