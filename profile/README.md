@@ -4,7 +4,7 @@
 
 ### *Because your lights deserve better than being dumb*
 
-[🛒 Webshop](https://gevako.nl/webshop/) • [📖 Documentation](https://gevako.nl/ondersteuning/) • [💬 Support](https://gevako.nl/contact/) • [🎥 Tutorials](https://www.youtube.com/@gevako-nl)
+<a href="https://gevako.nl/webshop/" target="_blank">🛒 Webshop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://gevako.nl/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako-nl" target="_blank">🎥 Tutorials</a>
 
 ![Made with ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
@@ -48,7 +48,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 **Perfect for:** Pool pumps, outdoor lighting, zone control
 
-[📦 Get RS6](https://gevako.nl/shop/gevako-rs6-slimme-schakelaar-home-assistant/) • [📚 Docs](https://github.com/gevako-nl/rs6)
+<a href="https://gevako.nl/shop/gevako-rs6-slimme-schakelaar-home-assistant/" target="_blank">📦 Get RS6</a> • [📚 Docs](https://github.com/gevako-nl/rs6)
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 **Perfect for:** Garden lighting, garage control, full-house automation
 
-[📦 Get RS5](https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/) • [📚 Docs](https://github.com/gevako-nl/rs5)
+<a href="https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/" target="_blank">📦 Get RS5</a> • [📚 Docs](https://github.com/gevako-nl/rs5)
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ esp32:
 # 4. Start automating! 🎉
 ```
 
-**Need help?** Check our [step-by-step tutorials](https://www.youtube.com/@gevako) (in Dutch, with English subtitles coming soon!)
+**Need help?** Check our <a href="https://www.youtube.com/@gevako" target="_blank">step-by-step tutorials</a> (in Dutch, with English subtitles coming soon!)
 
 ---
 
@@ -111,9 +111,9 @@ esp32:
 
 We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code is universal 😉)
 
-**Latest:** [Automate Garden Lighting with RS5](https://www.youtube.com/watch?v=BqMmWnvCVKY)
+**Latest:** <a href="https://www.youtube.com/watch?v=BqMmWnvCVKY" target="_blank">Automate Garden Lighting with RS5</a>
 
-<a href="https://www.youtube.com/@gevako-nl"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
+<a href="https://www.youtube.com/@gevako-nl" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
 
 ---
 
@@ -121,10 +121,10 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 
 **Processor:** ESP32-C6 (RISC-V, WiFi 6)  
 **Firmware:** ESPHome (open source, customizable)  
-**Power:** 230 VAC / 5 VDC (USB-C)
+**Power:** 230 VAC / 5 VDC (USB-C)  
 **Switching:** 16A per channel @ 250VAC / 30VDC  
 **Certifications:** CE marked  
-**Mounting:** DIN-rail compatible
+**Mounting:** DIN-rail compatible  
 **Made in:** Land van Maas en Waal, Netherlands 🇳🇱
 
 ---
@@ -139,7 +139,7 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 - 🏡 Whole-house zone control
 - 🎄 Holiday lighting (because manual switching is *so* 2020)
 
-**Built something cool?** [Show us!](https://gevako.nl/contact/) We love seeing what you create.
+**Built something cool?** <a href="https://gevako.nl/contact/" target="_blank">Show us!</a> We love seeing what you create.
 
 ---
 
@@ -149,7 +149,7 @@ Found a bug? Want a feature? Have an idea?
 
 - 🐛 [Report issues](https://github.com/gevako-nl/rs6/issues)
 - 💡 [Request features](https://github.com/gevako-nl/rs5/issues)
-- 📧 [Email us](https://gevako.nl/contact/)
+- 📧 <a href="https://gevako.nl/contact/" target="_blank">Email us</a>
 
 All firmware is open source - fork it, modify it, make it yours!
 
@@ -157,7 +157,7 @@ All firmware is open source - fork it, modify it, make it yours!
 
 ## 📦 Where to Buy
 
-🛒 **Official Webshop:** [gevako.nl/webshop](https://gevako.nl/webshop/)
+🛒 **Official Webshop:** <a href="https://gevako.nl/webshop/" target="_blank">gevako.nl/webshop</a>
 
 - ✅ Free shipping in NL (orders €75+)
 - ✅ Fast delivery (usually next-day)
@@ -168,9 +168,9 @@ All firmware is open source - fork it, modify it, make it yours!
 
 ## 🌐 Community & Support
 
-- 💬 **Email:** [info@gevako.nl](mailto:info@gevako.nl)
-- 📖 **Docs:** [gevako.nl/ondersteuning](https://gevako.nl/ondersteuning/)
-- 🎥 **YouTube:** [@gevako](https://www.youtube.com/@gevako)
+- 💬 **Email:** <a href="mailto:info@gevako.nl">info@gevako.nl</a>
+- 📖 **Docs:** <a href="https://gevako.nl/ondersteuning/" target="_blank">gevako.nl/ondersteuning</a>
+- 🎥 **YouTube:** <a href="https://www.youtube.com/@gevako" target="_blank">@gevako</a>
 - 🏠 **Home Assistant Forum:** Coming soon!
 
 ---
@@ -199,7 +199,7 @@ Hardware designs are © Gevako B.V., but firmware is yours to hack. 🔓
 
 **Gevako B.V.** • KVK: 93569882 • BTW: NL866453428B01
 
-[Website](https://gevako.nl) • [Shop](https://gevako.nl/webshop) • [Support](https://gevako.nl/ondersteuning) • [YouTube](https://youtube.com/@gevako)
+<a href="https://gevako.nl" target="_blank">Website</a> • <a href="https://gevako.nl/webshop" target="_blank">Shop</a> • <a href="https://gevako.nl/ondersteuning" target="_blank">Support</a> • <a href="https://youtube.com/@gevako" target="_blank">YouTube</a>
 
 ⭐ **If you like what we're building, give us a star!** ⭐
 
