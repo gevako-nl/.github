@@ -4,7 +4,7 @@
 
 ### *Because your lights deserve better than being dumb*
 
-<a href="https://gevako.nl/webshop/" target="_blank">🛒 Webshop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://gevako.nl/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako-nl" target="_blank">🎥 Tutorials</a>
+<a href="https://gevako.nl/webshop/" target="_blank">🛒 Webshop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://gevako.nl/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako" target="_blank">🎥 Tutorials</a>
 
 ![Made with ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
@@ -113,7 +113,7 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 
 **Latest:** <a href="https://www.youtube.com/watch?v=BqMmWnvCVKY" target="_blank">Automate Garden Lighting with RS5</a>
 
-<a href="https://www.youtube.com/@gevako-nl" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
+<a href="https://www.youtube.com/@gevako" target="_blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" /></a>
 
 ---
 
