@@ -4,7 +4,7 @@
 
 ### *Because your house deserves better than being dumb*
 
-<a href="https://gevako.nl/webshop/" target="_blank">🛒 Webshop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://gevako.nl/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako" target="_blank">🎥 Tutorials</a>
+<a href="https://www.gevako.com/shop/" target="_blank">🛒 Shop</a> • <a href="https://gevako.nl/ondersteuning/" target="_blank">📖 Documentation</a> • <a href="https://www.gevako.com/contact/" target="_blank">💬 Support</a> • <a href="https://www.youtube.com/@gevako" target="_blank">🎥 Tutorials</a>
 
 ![Made with ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
@@ -48,7 +48,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 **Perfect for:** Pool pumps, outdoor lighting, zone control
 
-<a href="https://gevako.nl/shop/gevako-rs6-slimme-schakelaar-home-assistant/" target="_blank">📦 Get RS6</a> • [📚 Docs](https://github.com/gevako-nl/rs6)
+<a href="https://www.gevako.com/shop/gevako-rs6-smart-switch-home-assistant/" target="_blank">📦 Get RS6</a> • [📚 Docs](https://github.com/gevako-nl/rs6)
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@ We make **smart switches that actually work** - no cloud nonsense, no monthly fe
 
 **Perfect for:** Garden lighting, garage control, full-house automation
 
-<a href="https://gevako.nl/shop/gevako-rs5-slimme-schakelaar-home-assistant/" target="_blank">📦 Get RS5</a> • [📚 Docs](https://github.com/gevako-nl/rs5)
+<a href="https://www.gevako.com/shop/gevako-rs5-smart-switch-home-assistant/" target="_blank">📦 Get RS5</a> • [📚 Docs](https://github.com/gevako-nl/rs5)
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ We're building a YouTube channel with Home Assistant tutorials! (Dutch, but code
 - 🏡 Whole-house zone control
 - 🎄 Holiday lighting (because manual switching is *so* 2020)
 
-**Built something cool?** <a href="https://gevako.nl/contact/" target="_blank">Show us!</a> We love seeing what you create.
+**Built something cool?** <a href="https://www.gevako.com/contact/" target="_blank">Show us!</a> We love seeing what you create.
 
 ---
 
@@ -149,7 +149,7 @@ Found a bug? Want a feature? Have an idea?
 
 - 🐛 [Report issues](https://github.com/gevako-nl/rs6/issues)
 - 💡 [Request features](https://github.com/gevako-nl/rs5/issues)
-- 📧 <a href="https://gevako.nl/contact/" target="_blank">Email us</a>
+- 📧 <a href="https://www.gevako.com/contact/" target="_blank">Email us</a>
 
 All firmware is open source - fork it, modify it, make it yours!
 
@@ -157,7 +157,7 @@ All firmware is open source - fork it, modify it, make it yours!
 
 ## 📦 Where to Buy
 
-🛒 **Official Webshop:** <a href="https://gevako.nl/webshop/" target="_blank">gevako.nl/webshop</a>
+🛒 **Official Webshop:** <a href="https://www.gevako.com/shop/" target="_blank">gevako.nl/webshop</a>
 
 - ✅ Free shipping in NL (orders €75+)
 - ✅ Fast delivery (usually next-day)
@@ -168,8 +168,8 @@ All firmware is open source - fork it, modify it, make it yours!
 
 ## 🌐 Community & Support
 
-- 💬 **Email:** <a href="mailto:info@gevako.nl">info@gevako.nl</a>
-- 📖 **Docs:** <a href="https://gevako.nl/ondersteuning/" target="_blank">gevako.nl/ondersteuning</a>
+- 💬 **Email:** <a href="mailto:info@gevako.com">info@gevako.com</a>
+- 📖 **Docs:** <a href="https://www.gevako.com/support/" target="_blank">gevako.nl/ondersteuning</a>
 - 🎥 **YouTube:** <a href="https://www.youtube.com/@gevako" target="_blank">@gevako</a>
 - 🏠 **Home Assistant Forum:** Coming soon!
 
@@ -198,7 +198,7 @@ Hardware designs are © Gevako B.V., but firmware is yours to hack. 🔓
 
 **Gevako B.V.** • KVK: 93569882 • BTW: NL866453428B01
 
-<a href="https://gevako.nl" target="_blank">Website</a> • <a href="https://gevako.nl/webshop" target="_blank">Shop</a> • <a href="https://gevako.nl/ondersteuning" target="_blank">Support</a> • <a href="https://youtube.com/@gevako" target="_blank">YouTube</a>
+<a href="https://www.gevako.com/" target="_blank">Website</a> • <a href="https://www.gevako.com/shop/" target="_blank">Shop</a> • <a href="https://www.gevako.com/support/" target="_blank">Support</a> • <a href="https://youtube.com/@gevako" target="_blank">YouTube</a>
 
 ⭐ **If you like what we're building, give us a star!** ⭐
 
