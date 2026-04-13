@@ -31,7 +31,7 @@ Powered by the **ESP32-C6**, our hardware natively supports both **WiFi 6** and 
 ### 🎛️ Gevako RS6
 **6-Channel Smart Relay (Independent)**
 
-<img src="https://github.com/user-attachments/assets/703d3c49-ddfa-4aa3-8898-c16afbebe669" width="200"/>
+<img alt="gevako-rs6-smart-relay-3d-front-left-thread-wifi" src="https://github.com/user-attachments/assets/7173222b-00c2-429f-a48f-1df1cb0600a4" width="200"/>
 
 - **Relays:** 6× Independent (16 A each)
 - **Max Load:** 250 VAC / 30 VDC
@@ -47,7 +47,7 @@ Powered by the **ESP32-C6**, our hardware natively supports both **WiFi 6** and 
 ### 🎚️ Gevako RS5
 **5-Channel Smart Relay (Common Source)**
 
-<img src="https://github.com/user-attachments/assets/089008c8-97aa-40c3-a091-e8da973dbac9" width="200"/>
+<img alt="gevako-rs5-smart-relay-3d-front-left-thread-wifi" src="https://github.com/user-attachments/assets/703d3c49-ddfa-4aa3-8898-c16afbebe669" width="200"/>
 
 - **Relays:** 5× (16 A total)
 - **Max Load:** 250 VAC / 30 VDC
