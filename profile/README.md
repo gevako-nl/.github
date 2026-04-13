@@ -41,6 +41,7 @@ Powered by the **ESP32-C6**, our hardware natively supports both **WiFi 6** and 
 - **Mount:** DIN-rail compatible
 
 📦 **Get Hardware:** [Thread Version](https://www.gevako.com/shop/gevako-rs6-thread-smart-relay-home-assistant/) | [WiFi Version](https://www.gevako.com/shop/gevako-rs6-wifi-smart-relay-home-assistant/)
+
 📚 **Docs:** [RS6 Repository](https://github.com/gevako-nl/rs6)
 
 </td>
@@ -59,6 +60,7 @@ Powered by the **ESP32-C6**, our hardware natively supports both **WiFi 6** and 
 - **Form Factor:** Compact design
 
 📦 **Get Hardware:** [Thread Version](https://www.gevako.com/shop/gevako-rs5-thread-smart-relay-home-assistant/) | [WiFi Version](https://www.gevako.com/shop/gevako-rs5-wifi-smart-relay-home-assistant/)
+
 📚 **Docs:** [RS5 Repository](https://github.com/gevako-nl/rs5)
 
 </td>
