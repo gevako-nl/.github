@@ -85,6 +85,7 @@ All our firmware configurations are open source under the MIT License. Feel free
 - 🐛 [Report issues / Request features](https://github.com/gevako-nl)
 - 📧 <a href="mailto:info@gevako.com">Contact Engineering</a>
 - 💬 <a href="https://www.gevako.com/contact/" target="_blank">Customer Support</a>
+- 🌐 <a href="https://www.gevako.com/" target="_blank">Website</a>
 
 <div align="center">
 <br>
